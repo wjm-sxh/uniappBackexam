@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,o}from"./index-BU7Eo9xm.js";const r={};function t(n,s){return o(),c("h3",null,"系统设置（版心、字体）")}const f=e(r,[["render",t]]);export{f as default};
